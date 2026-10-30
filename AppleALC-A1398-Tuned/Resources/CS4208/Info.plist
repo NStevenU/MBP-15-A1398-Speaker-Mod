@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Custom A1398 DSP Tuned</string>
+	<key>CodecID</key>
+	<integer>16904</integer>
+	<key>CodecName</key>
+	<string>CS4208</string>
+	<key>Files</key>
+	<dict>
+		<key>Layouts</key>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>Cirrus Logic CS4208 - MacBookPro11,x Layout 128 Tuned</string>
+				<key>Id</key>
+				<integer>128</integer>
+				<key>Path</key>
+				<string>layout128.xml.zlib</string>
+			</dict>
+		</array>
+		<key>Platforms</key>
+		<array/>
+	</dict>
+	<key>Patches</key>
+	<array/>
+	<key>Revisions</key>
+	<array>
+		<integer>1049344</integer>
+	</array>
+	<key>Vendor</key>
+	<string>CirrusLogic</string>
+</dict>
+</plist>
